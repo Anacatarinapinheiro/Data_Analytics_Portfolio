@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Anacatarinapinheiro/Data_Analytics_Portfolio/raw/main/Images/banner.png" width="800" />
+  <img src="https://github.com/Anacatarinapinheiro/Data_Analytics_Portfolio/raw/main/Images/banner.png" />
 </p>
 
 # Data Analytics Portfolio
