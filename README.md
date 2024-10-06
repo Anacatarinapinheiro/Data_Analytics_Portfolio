@@ -25,3 +25,9 @@ For our Data Analyst course final project, our team worked with Worten as our cl
 This project was developed as part of one of the learning units of my Data Analyst course. It aimed to create a database capable of supporting analytical and management functionalities. The project focused on designing a music streaming platform database, storing detailed information about users and artists, including their playlists, music history, events, and discography. Tools like MySQL Workbench, Python, and Spotify's API were used to gather and structure data, while Power BI was employed to enhance event-related information, creating a comprehensive and organized system.
 
 #
+
+<img align="left" width="250" height="150" src="https://mint-car.com/wp-content/uploads/2023/10/buy-your-classic-european-car.png"> **[SQL Project - Mint Classic Company](https://github.com/Anacatarinapinheiro/SQL_Project_Mint_Classics_Company)**
+
+This project is part of my journey to enhance my data analytics skills through Coursera. It is a hands-on SQL-based project where I analyze inventory data for the fictional Mint Classics Company, a retailer of classic cars and vehicles. The goal is to support inventory-related business decisions, focusing on stock optimization and the closure of a storage facility.
+
+#
